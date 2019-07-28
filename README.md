@@ -14,3 +14,11 @@ Identify areas that need attention or improvement.
 Clarify which factors influence customer behavior.
 Help you understand which products to place where.
 Predict sales volumes.
+
+https://en.wikipedia.org/wiki/Data_visualization
+
+https://www.tableau.com/learn/articles/data-visualization
+
+https://infogram.com/page/data-visualization
+
+https://www.youtube.com/watch?v=TPMlZxRRaBQ 
