@@ -22,3 +22,13 @@ https://www.tableau.com/learn/articles/data-visualization
 https://infogram.com/page/data-visualization
 
 https://www.youtube.com/watch?v=TPMlZxRRaBQ 
+
+
+TABLEAU   
+
+https://www.youtube.com/watch?v=GkJwcyI_1vc
+
+https://www.youtube.com/watch?v=TPMlZxRRaBQ&t=1001s
+
+
+
